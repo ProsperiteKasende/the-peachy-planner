@@ -3,7 +3,7 @@
 **Live Site:** https://thepeachyplanner.com/
 
 ## Overview
-This project is a client-facing website for The Peachy Planner, a boutique event planning business focused on creating personalized and visually compelling events. :contentReference[oaicite:0]{index=0}  
+This project is a client-facing website for The Peachy Planner, an event planning business focused on creating personalized and visually compelling events.  
 
 The website was developed as part of a small development team to establish a strong online presence, showcase services, and communicate the brand’s aesthetic through a modern, responsive user interface.
 
